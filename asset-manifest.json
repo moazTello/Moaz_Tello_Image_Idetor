@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Moaz_Tello_Image_Idetor/static/css/main.10b0fbe7.css",
-    "main.js": "/Moaz_Tello_Image_Idetor/static/js/main.e61ff147.js",
+    "main.js": "/Moaz_Tello_Image_Idetor/static/js/main.52dbf481.js",
     "index.html": "/Moaz_Tello_Image_Idetor/index.html",
     "main.10b0fbe7.css.map": "/Moaz_Tello_Image_Idetor/static/css/main.10b0fbe7.css.map",
-    "main.e61ff147.js.map": "/Moaz_Tello_Image_Idetor/static/js/main.e61ff147.js.map"
+    "main.52dbf481.js.map": "/Moaz_Tello_Image_Idetor/static/js/main.52dbf481.js.map"
   },
   "entrypoints": [
     "static/css/main.10b0fbe7.css",
-    "static/js/main.e61ff147.js"
+    "static/js/main.52dbf481.js"
   ]
 }
